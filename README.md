@@ -15,6 +15,7 @@ Install the following packages:
  -  numpy : https://docs.scipy.org/doc/numpy/user/install.html
  -  Stanford core nlp: https://pypi.org/project/stanfordcorenlp/
  -  TextBlob : https://textblob.readthedocs.io/en/dev/
+ -  StandfordCoreNLP server version 2018-02-27 (Needs to be put into `vendor/stanford-corenlp-full-2018-02-27/`)
 
 2. **Start the Stanford Core CLP server**
 
